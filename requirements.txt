@@ -1,8 +1,8 @@
-numpy
-pandas
-streamlit
-scikit-learn
-scikit-image
-opencv-python
-matplotlib
+numpy==1.26.2
 opencv-python-headless==4.8.1.78
+scikit-image==0.21.0
+pandas
+matplotlib
+Pillow
+scipy
+streamlit
